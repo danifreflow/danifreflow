@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dani_freflow
 - 👀 I’m interested in open software , linux , programming and stuff like that
 - 🌱 I’m currently learning Computer Ingenier
-- 💞️ I’m looking to collaborate on nothing , if you need programing in java or c contact
+- 💞️ if you need programing in java or c contact with me im looking to learn more 
 - 📫 How to reach me //jimyrax@gmail.com
 
 <!---
