@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dani_freflow
 - 👀 I’m interested in open software , linux , programming and stuff like that
-- 🌱 I’m currently learning Computer Ingenier
+- 🌱 I’m currently learning Computer Ingenier in Universidad Politecnica de Madrid
 - 💞️ if you need programing in java or c contact with me im looking to learn more 
 - 📫 How to reach me //jimyrax@gmail.com
 
