@@ -26,7 +26,7 @@
 ## My interest
 - These are my favourite Programming Languages 💞️ 
 <div>
-  - #### :satisfied: More used:
+#### :satisfied: More used:
   <a href="#">
       <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="c" width="40" height="40"/>&nbsp;
@@ -34,7 +34,7 @@
 
 
 
-- #### :hugs: Recently studied:
+#### :hugs: Recently studied:
   <a href="#">
     
   </a><br>
