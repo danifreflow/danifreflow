@@ -14,10 +14,10 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
--  👀 I’m interested in open software , linux , programming and stuff like that
--  🌱 I’m currently learning Computer Ingenier in Universidad Politecnica de Madrid
--  💞️ if you need programing in java or c contact with me im looking to learn more 
--  📫 How to reach me //jimyrax@gmail.com
+*  👀 I’m interested in open software , linux , programming and stuff like that
+*  🌱 I’m currently learning Computer Ingenier in Universidad Politecnica de Madrid
+*  💞️ if you need programing in java or c contact with me im looking to learn more 
+*  📫 How to reach me //jimyrax@gmail.com
 
 <!---
 danifreflow/danifreflow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
