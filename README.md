@@ -27,7 +27,7 @@
 - 💞️ if you need programing in java or c contact with me im looking to learn more 
 
 ##  📫 How to reach me 
- My email is jimyrax@gmail.com i normally answer there , but if i not you can go to my twitter
+ My email is jimyrax@gmail.com i normally answer there , but if i don't you can send me a DM
 
 <!---
 danifreflow/danifreflow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
