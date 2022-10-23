@@ -13,7 +13,7 @@
 </div>
 <div id = "counter" align="center">
 <img src="https://komarev.com/ghpvc/?username=danifreflow&style=flat-square&color=green" alt=""/>
-
+</div>
 
 - 👀 I’m interested in open software , linux , programming and stuff like that
 
