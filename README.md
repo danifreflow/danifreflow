@@ -16,13 +16,18 @@
 </div>
 
 ---
-- 👀 I’m interested in open software , linux , programming and stuff like that
+## About me 👀
+-  I’m interested in open software , linux , programming and stuff like that
 
--   🌱 I’m currently learning Computer Ingenier in Universidad Politecnica de Madrid
+## What im doing 🌱 
+- I’m currently learning Computer Ingenier in Universidad Politecnica de Madrid
 
--  💞️ if you need programing in java or c contact with me im looking to learn more 
 
--  📫 How to reach me //jimyrax@gmail.com
+## My interest
+- 💞️ if you need programing in java or c contact with me im looking to learn more 
+
+##  📫 How to reach me 
+ My email is jimyrax@gmail.com i normally answer there , but if i not you can go to my twitter
 
 <!---
 danifreflow/danifreflow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
