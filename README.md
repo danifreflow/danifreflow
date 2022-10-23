@@ -25,14 +25,17 @@
 
 ## My interest
 - These are my favourite Programming Languages 💞️ 
-<div>
+
   
 #### :satisfied: More used:
+<div align="center">
   <a href="#">
       <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="c" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="C" alt="c" width="40" height="40"/>&nbsp;
 
+
+</div>
 
 
 #### :hugs: Recently studied:
@@ -41,8 +44,6 @@
   </a><br>
   
  
-</div>
-
 ##  📫 How to reach me 
  My email is jimyrax@gmail.com i normally answer there , but if i don't you can send me a DM
 
