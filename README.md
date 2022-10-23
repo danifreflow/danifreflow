@@ -24,7 +24,7 @@
 
 
 ## My interest
-- These are my favourite Programming Languages 💞️ 
+- These are my favourite technologies 💞️ 
 
   
 #### :satisfied: More used:
@@ -36,12 +36,6 @@
 
 
 </div>
-
-
-#### :hugs: Recently studied:
-  <a href="#">
-    
-  </a><br>
   
  
 ##  📫 How to reach me 
