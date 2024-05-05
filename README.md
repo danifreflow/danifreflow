@@ -17,7 +17,7 @@
 -  I’m interested in open software , linux , programming and stuff like that
 
 ## What im doing 🌱 
-- I’m currently learning Computer Ingenier in Universidad Politecnica de Madrid
+- I’m currently learning Computer Ingenier in Universidad Politecnica de Madrid and working for baobabsoluciones
 
 
 ## My interest
@@ -36,7 +36,7 @@
   
  
 ##  📫 How to reach me 
- My email is jimyrax@gmail.com i normally answer there , but if i don't you can send me a DM
+ My email is d.fernandez@cirqlr.es i normally answer there , but if i don't you can send me a DM
 
 <!---
 danifreflow/danifreflow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
