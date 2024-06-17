@@ -13,23 +13,7 @@
 </div>
 
 ---
-## About me 👀
--  I’m interested in open software , linux , programming and stuff like that
 
-## What im doing 🌱 
-- I’m currently learning Computer Ingenier in Universidad Politecnica de Madrid and working for baobabsoluciones
-
-
-## My interest
-- These are my favourite technologies 💞️ 
-
-  
-#### :satisfied: More used:
-<div align="center">
-  <a href="#">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="c" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="C" alt="c" width="80" height="80"/>&nbsp;
 
 
 </div>
