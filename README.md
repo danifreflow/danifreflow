@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @dani_freflow
 <div id = "header" align="center">
-  <img src="https://media2.giphy.com/media/vbvYMTIE0XFyWRA4P9/giphy.gif?cid=6c09b952qic44rukzjs182e17329uvll38yfuxhlcppy1abx&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="100">
+  <img src="https://media2.giphy.com/media/vbvYMTIE0XFyWRA4P9/giphy.gif?cid=6c09b952qic44rukzjs182e17329uvll38yfuxhlcppy1abx&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="200">
 </div>
 
 <div id="badges" align="center">
