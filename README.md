@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @dani_freflow
 <div id = "header" align="center">
-  <img src="https://media.tenor.com/images/ccb959edb41a02737755b2209ef7d97a/tenor.gif" width="100">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com.mx%2Fpin%2Fdance-dancing-sticker-by-pudgy-penguins-for-ios-android--895020125930171872%2F&psig=AOvVaw3C3An9_joOvxJ3kTtUgM4H&ust=1720027227305000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCIjh4vHuiIcDFQAAAAAdAAAAABAx" width="100">
 </div>
 
 <div id="badges" align="center">
